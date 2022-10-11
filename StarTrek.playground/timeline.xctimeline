@@ -3,14 +3,32 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/profh/67-443-F20/StarTrek_starter/StarTrek.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=1605&amp;EndingColumnNumber=0&amp;EndingLineNumber=35&amp;StartingColumnNumber=0&amp;StartingLineNumber=35&amp;Timestamp=622042313.951882"
+         documentLocation = "file:///Users/helenhuang/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/_school/67443_mobile_app/1011/StarTrek_starter/StarTrek.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=1605&amp;EndingColumnNumber=28&amp;EndingLineNumber=37&amp;StartingColumnNumber=28&amp;StartingLineNumber=37&amp;Timestamp=687206972.347741"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/profh/67-443-F20/StarTrek_starter/StarTrek.playground#CharacterRangeLen=250&amp;CharacterRangeLoc=2643&amp;EndingColumnNumber=0&amp;EndingLineNumber=111&amp;StartingColumnNumber=0&amp;StartingLineNumber=92&amp;Timestamp=622042313.952055"
+         documentLocation = "file:///Users/helenhuang/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/_school/67443_mobile_app/1011/StarTrek_starter/StarTrek.playground#CharacterRangeLen=575&amp;CharacterRangeLoc=3096&amp;EndingColumnNumber=0&amp;EndingLineNumber=110&amp;StartingColumnNumber=33&amp;StartingLineNumber=92&amp;Timestamp=687206972.348935"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/helenhuang/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/_school/67443_mobile_app/1011/StarTrek_starter/StarTrek.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=1844&amp;EndingColumnNumber=28&amp;EndingLineNumber=45&amp;StartingColumnNumber=20&amp;StartingLineNumber=45&amp;Timestamp=687206972.352098"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/helenhuang/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/_school/67443_mobile_app/1011/StarTrek_starter/StarTrek.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=2127&amp;EndingColumnNumber=15&amp;EndingLineNumber=55&amp;StartingColumnNumber=5&amp;StartingLineNumber=55&amp;Timestamp=687206972.353245"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/helenhuang/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/_school/67443_mobile_app/1011/StarTrek_starter/StarTrek.playground#CharacterRangeLen=31&amp;CharacterRangeLoc=3403&amp;EndingColumnNumber=91&amp;EndingLineNumber=99&amp;StartingColumnNumber=60&amp;StartingLineNumber=99&amp;Timestamp=687206972.354333"
+         lockedSize = "{1533.5, 44}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/helenhuang/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/_school/67443_mobile_app/1011/StarTrek_starter/StarTrek.playground#CharacterRangeLen=17&amp;CharacterRangeLoc=3650&amp;EndingColumnNumber=0&amp;EndingLineNumber=106&amp;StartingColumnNumber=1&amp;StartingLineNumber=105&amp;Timestamp=687206972.3553571"
+         selectedRepresentationIndex = "0">
       </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
